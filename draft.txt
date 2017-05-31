@@ -1,6 +1,4 @@
 Hello world from Burnaby, B.C on the Mountain at SFU.
 SOlving PDEs on curved surfaces
 
-### Introduction
-
-For introduction refer to intro.txt
+### Solving PDEs on flat surfaces
